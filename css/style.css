@@ -43,6 +43,10 @@
     border-radius: 50%;
     height: 100px;
 }
-
+@media (max-width:575px) {
+	#testimonials .container .row img {
+		margin-bottom: 10px;
+	}
+}
 
 
